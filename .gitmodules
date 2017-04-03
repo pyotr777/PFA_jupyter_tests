@@ -1,3 +1,0 @@
-[submodule "hadrian"]
-	path = hadrian
-	url = https://github.com/opendatagroup/hadrian.git
